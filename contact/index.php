@@ -17,8 +17,7 @@
 		</ul>
 	</div>
 
-	<div class="action-hint quick">Scroll or drag to explore.</div>
-	<div class="action-hint-for-touch">Swipe to explore.</div>
+	<?php include(dirname(__DIR__).'/components/scroll-hint.php');?>
 
 	<!-- Swiper -->
 	<div class="swiper-container" id="contact">

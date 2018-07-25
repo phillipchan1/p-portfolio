@@ -18,8 +18,8 @@
         </p>
     </div>
 
-    <div class="action-hint">Scroll or drag to explore.</div>
-    <div class="action-hint-for-touch">Swipe to explore more works.</div>
+    <?php include(dirname(__DIR__).'/components/scroll-hint.php');?>
+
     <!-- Swiper -->
     <div class="swiper-container" id="main">
         <?php include 'components/portfolio-slider.php';?>
