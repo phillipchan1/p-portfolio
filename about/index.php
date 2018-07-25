@@ -91,7 +91,7 @@
 					Languages
 				</p>
 
-				<p>HTML, CSS, Javascript (ES6), Node, PHP, Java, SASS, LESS, </p>
+				<p>HTML, CSS, Javascript (ES6), Node, PHP, Java, SASS, LESS, Liquid, Freemarker, JSP, JSX</p>
 
 				<p class="big-text">
 					Front End Frameworks
