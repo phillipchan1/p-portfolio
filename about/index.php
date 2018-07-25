@@ -33,10 +33,10 @@
 			</div>
 		</div>
 
-		<!-- How We Work -->
+		<!-- How I Work -->
 		<div class="full no-right">
 			<div class="text-block-right">
-				<h2>How we work.</h2>
+				<h2>How I Work.</h2>
 				<p class="big-text">
 					Because time is money, an experienced developer cares about your time and how it pays you back.
 				</p>
