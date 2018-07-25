@@ -14,7 +14,7 @@
 
         <div class="spacing"></div>
         <p>
-            <a href="about.html" class="button boxed black">Know more</a>
+            <a href="/about" class="button boxed black">Know more</a>
         </p>
     </div>
 
