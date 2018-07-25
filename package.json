@@ -1,0 +1,24 @@
+{
+  "name": "phillipchan-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipchan2/p-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillipchan2/p-portfolio/issues"
+  },
+  "homepage": "https://github.com/phillipchan2/p-portfolio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "^1.0.3"
+  }
+}
