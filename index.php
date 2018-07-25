@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-    <?php include 'partials/head.php';?>
+<?php include 'partials/head.php';?>
+
 
 <body id="home">
     <?php include 'partials/header.php';?>
@@ -10,6 +11,7 @@
         <p>
             Multi-talented developer passionate about generating digital business
         </p>
+
         <div class="spacing"></div>
         <p>
             <a href="about.html" class="button boxed black">Know more</a>

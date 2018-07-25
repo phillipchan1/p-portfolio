@@ -1,4 +1,4 @@
-<div id="logo"><a href="index.html"><h1><img src="images/logo.png" alt=""></h1></a></div>
+<div id="logo"><a href="index.html"><h1><img src="/assets/images/logo.png" alt=""></h1></a></div>
     <div id="menu-wrapper">
         <div id="menu-controller">
             <div id="menu-icon">
@@ -25,7 +25,7 @@
             <nav id="main-menu">
                 <ul>
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About</a></li>
+                    <li><a href="/about">About</a></li>
                     <li><a href="services.html">Services</a></li>
                     <li>
                         <a href="cases.html">Cases</a>
