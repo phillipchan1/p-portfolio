@@ -1,4 +1,4 @@
-<div id="logo"><a href="index.html"><h1><img src="/assets/images/logo.png" alt=""></h1></a></div>
+<div id="logo"><a href="/index.php"><h1><img src="/assets/images/logo.png" alt=""></h1></a></div>
     <div id="menu-wrapper">
         <div id="menu-controller">
             <div id="menu-icon">
