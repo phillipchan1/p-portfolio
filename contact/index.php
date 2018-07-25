@@ -24,7 +24,7 @@
 <div class="swiper-container" id="contact">
 	<div class="swiper-wrapper">
 		<div class="swiper-slide media">
-			<img src="contact/contact-3.jpg" alt="">
+			<img src="/contact/contact-3.jpg" alt="">
 		</div>
 		<div class="swiper-slide">
 			<div class="large-12 columns">

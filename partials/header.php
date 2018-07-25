@@ -1,4 +1,9 @@
-<div id="logo"><a href="/index.php"><h1><img src="/assets/images/logo.png" alt=""></h1></a></div>
+<div id="logo">
+	<a href="/index.php">
+		<h1><img src="/assets/images/logo.png" alt=""></h1>
+	</a>
+</div>
+
 <div id="menu-wrapper">
 	<div id="menu-controller">
 		<div id="menu-icon">
@@ -32,7 +37,7 @@
 			</ul>
 		</nav>
 		<div id="contact-info">
-			<?php include '../components/contact-info.php';?>
+			<?php include(dirname(__DIR__).'/components/contact-info.php');?>
 		</div>
 		<div id="socials">
 			<ul>
@@ -46,13 +51,16 @@
 	<div id="bg-primary" class=""></div>
 	<div id="bg-secondary"></div>
 </div>
+
 <div class="lines-wrapper">
 	<div class="horizontal-line"></div>
 	<div class="oblique-line"></div>
 </div>
+
 <div class="blue-triangle">
-	<img src="images/blue-triangle.png" alt="">
+	<img src="/assets/images/blue-triangle.png" alt="">
 </div>
+
 <div class="red-triangle">
-	<img src="images/red-triangle.png" alt="">
+	<img src="/assets/images/red-triangle.png" alt="">
 </div>
