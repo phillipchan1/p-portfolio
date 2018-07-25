@@ -18,7 +18,7 @@
         </p>
     </div>
 
-    <?php include(dirname(__DIR__).'/components/scroll-hint.php');?>
+    <?php include('components/scroll-hint.php');?>
 
     <!-- Swiper -->
     <div class="swiper-container" id="main">
