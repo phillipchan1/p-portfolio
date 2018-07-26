@@ -1101,6 +1101,10 @@ p.thanks {
   top: 0;
   left: 0; }
 
+.case-header.dark h2 {
+  color: #000;
+}
+
 .case-header h2 {
   position: absolute;
   top: 50%;

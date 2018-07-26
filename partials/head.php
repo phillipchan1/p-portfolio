@@ -14,6 +14,4 @@
     <link rel="stylesheet" href="/assets/static/css/linea-styles.css" />
     <link rel="stylesheet" href="/assets/static/css/linea-arrows-styles.css" />
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
-    <!-- <script src="http://10.0.1.3:8080/target/target-script-min.js#procreate"></script>-->
-    <!-- Demo styles -->
 </head>

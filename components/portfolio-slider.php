@@ -3,9 +3,9 @@
 			<div class="top-section item" id="work-1">
 				<div class="work-caption">
 					<h3>Motivation</h3>
-					<p class="work-client">Applin.com</p>
+					<p class="work-client">Liferay.com</p>
 				</div>
-				<a href="case-study.html">view more</a>
+				<a href="/portfolio/liferay">view more</a>
 			</div>
 			<div class="bottom-section item" id="work-2">
 				<div class="work-caption">
