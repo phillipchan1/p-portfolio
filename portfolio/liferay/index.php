@@ -73,6 +73,9 @@
 							<img src="/portfolio/liferay/animating cards.gif" alt="">
 						</div>
 						<div class="swiper-slide">
+							<img src="/portfolio/liferay/dxp.png" alt="">
+						</div>
+						<div class="swiper-slide">
 							<img src="/portfolio/liferay/click-carousel.png" alt="">
 						</div>
 					</div>
@@ -131,17 +134,17 @@
 			</div>
 			<div class="full red colored-bg">
 				<p class="centered-text">
-					<img src="images/@stock/result-1.png" alt="">
+					<img src="/portfolio/liferay/responsive.png" alt="">
 				</p>
 			</div>
-			<div class="full">
+			<!-- <div class="full">
 				<div class="large-7 columns large-centered">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet cumque quidem nulla officia consequuntur, eligendi repellat, laborum perferendis nihil, debitis officiis consectetur tenetur quo eaque quam expedita quibusdam atque inventore?</p>
 				</div>
 			</div>
 			<div class="full purple colored-bg">
 				<p class="centered-text">
-					<img src="images/@stock/result-2.png" alt="">
+					<img src="/portfolio/liferay/laptop.jpg" alt="">
 				</p>
 			</div>
 			<div class="full no-right white">
@@ -154,13 +157,11 @@
 						<p>- Name, position</p>
 					</div>
 				</div>
-			</div>
-			<div class="full dark transparent centered-text">
-				<div id="call-to-action-bottom">
-					<h3>Want to work with us?</h3>
-					<a href="contact.html">Get in touch <i class="icon-arrows-slim-right"></i> </a>
-				</div>
-			</div>
+			</div> -->
+
+			<!-- Work with us -->
+			<?php include '../../components/work-with-us.php';?>
+
 			<div class="full white centered-text">
 				<a href="cases.html" class="boxed black button">Back to all cases</a>
 			</div>

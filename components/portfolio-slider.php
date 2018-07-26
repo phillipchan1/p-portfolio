@@ -2,7 +2,7 @@
 		<div class="swiper-slide type-3">
 			<div class="top-section item" id="work-1">
 				<div class="work-caption">
-					<h3>Motivation</h3>
+					<h3>Website</h3>
 					<p class="work-client">Liferay.com</p>
 				</div>
 				<a href="/portfolio/liferay">view more</a>
