@@ -1746,20 +1746,20 @@ body {
 	background-image: url(/portfolio/liferay/screenshot.png);
 }
 
-#main .swiper-slide #work-3 {
-	background-image: url(/portfolio/liferay-documentation/screenshot-1.jpg);
-}
-
 #main .swiper-slide #work-2 {
 	background-image: url(/portfolio/hubspot-microservice/banner.svg);
 }
 
+#main .swiper-slide #work-3 {
+	background-image: url(/portfolio/liferay-documentation/screenshot-1.jpg);
+}
+
 #main .swiper-slide #work-4 {
-	background-image: url(/portfolio//screenshot.jpg);
+	background-image: url(/portfolio/liferay-design/screenshot-1.jpg);
 }
 
 #main .swiper-slide #work-5 {
-	background-image: url(/portfolio//screenshot.jpg);
+	background-image: url(/portfolio/onewestbank/screenshot-1.jpg);
 }
 
 #main .swiper-slide #work-6 {

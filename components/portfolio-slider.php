@@ -27,17 +27,17 @@
 		<div class="swiper-slide type-2">
 			<div class="top-section item" id="work-4">
 				<div class="work-caption">
-					<h3>Vegetable series</h3>
-					<p class="work-client">Painters</p>
+					<h3>React Site</h3>
+					<p class="work-client">Liferay Design</p>
 				</div>
-				<a href="case-study-2.html">view more</a>
+				<a href="/portfolio/liferay-design">view more</a>
 			</div>
 			<div class="bottom-section item" id="work-5">
 				<div class="work-caption">
-					<h3>Light in dark</h3>
-					<p class="work-client">Lights company</p>
+					<h3>Website Rebrand</h3>
+					<p class="work-client">OneWest Bank</p>
 				</div>
-				<a href="case-study.html">view more</a>
+				<a href="/portfolio/onewestbank">view more</a>
 			</div>
 		</div>
 		<div class="swiper-slide type-1">
@@ -55,7 +55,7 @@
 					<h3>Mode</h3>
 					<p class="work-client">Yourstyle.com</p>
 				</div>
-				<a href="case-study.html">view more</a>
+				<a href="/portfolio/">view more</a>
 			</div>
 			<div class="bottom-section item" id="work-8">
 				<div class="work-caption">
@@ -71,7 +71,7 @@
 					<h3>Attitudes</h3>
 					<p class="work-client">Attitudes.com</p>
 				</div>
-				<a href="case-study.html">view more</a>
+				<a href="/portfolio/">view more</a>
 			</div>
 		</div>
 		<div class="swiper-slide type-1">
@@ -89,7 +89,7 @@
 					<h3>Years</h3>
 					<p class="work-client">Distinguish.com</p>
 				</div>
-				<a href="case-study.html">view more</a>
+				<a href="/portfolio/">view more</a>
 			</div>
 			<div class="bottom-section item" id="work-12">
 				<div class="work-caption">
