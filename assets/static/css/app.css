@@ -1743,14 +1743,14 @@ body {
 }
 
 #main .swiper-slide #work-1 {
-	background-image: url(/portfolio/liferay/screenshot.jpg);
-}
-
-#main .swiper-slide #work-2 {
-	background-image: url(/portfolio/liferay-documentation/screenshot-1.jpg);
+	background-image: url(/portfolio/liferay/screenshot.png);
 }
 
 #main .swiper-slide #work-3 {
+	background-image: url(/portfolio/liferay-documentation/screenshot-1.jpg);
+}
+
+#main .swiper-slide #work-2 {
 	background-image: url(/portfolio/hubspot-microservice/banner.svg);
 }
 

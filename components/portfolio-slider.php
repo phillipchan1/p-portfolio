@@ -1,27 +1,27 @@
 <div class="swiper-wrapper">
-		<div class="swiper-slide type-3">
-			<div class="top-section item" id="work-1">
+		<div class="swiper-slide type-1">
+			<div class="whole item" id="work-1">
 				<div class="work-caption">
 					<h3>Website Rebrand</h3>
 					<p class="work-client">Liferay.com</p>
 				</div>
 				<a href="/portfolio/liferay">view more</a>
 			</div>
-			<div class="bottom-section item" id="work-2">
-				<div class="work-caption">
-					<h3>Documentation Generator</h3>
-					<p class="work-client">Liferay.com Documentation</p>
-				</div>
-				<a href="/portfolio/liferay-documentation">view more</a>
-			</div>
 		</div>
-		<div class="swiper-slide type-1">
-			<div class="whole item" id="work-3">
+		<div class="swiper-slide type-3">
+			<div class="top-section item" id="work-2">
 				<div class="work-caption">
 					<h3>Node App</h3>
 					<p class="work-client">Hubspot Microservice</p>
 				</div>
 				<a href="/portfolio/hubspot-microservice">view more</a>
+			</div>
+			<div class="bottom-section item" id="work-3">
+				<div class="work-caption">
+					<h3>Documentation Generator</h3>
+					<p class="work-client">Liferay.com Documentation</p>
+				</div>
+				<a href="/portfolio/liferay-documentation">view more</a>
 			</div>
 		</div>
 		<div class="swiper-slide type-2">
