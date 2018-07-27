@@ -43,26 +43,26 @@
 		<div class="swiper-slide type-1">
 			<div class="whole item" id="work-6">
 				<div class="work-caption">
-					<h3>Gifts for Apirl</h3>
-					<p class="work-client">makegifts.com</p>
+					<h3>Wordpress Theme</h3>
+					<p class="work-client">phillipchan.org</p>
 				</div>
-				<a href="case-study-2.html">view more</a>
+				<a href="/portfolio/phillipchanorg">view more</a>
 			</div>
 		</div>
 		<div class="swiper-slide type-4">
 			<div class="top-section item" id="work-7">
 				<div class="work-caption">
-					<h3>Mode</h3>
-					<p class="work-client">Yourstyle.com</p>
+					<h3>Angular App</h3>
+					<p class="work-client">Jetly</p>
 				</div>
-				<a href="/portfolio/">view more</a>
+				<a href="/portfolio/jetly">view more</a>
 			</div>
 			<div class="bottom-section item" id="work-8">
 				<div class="work-caption">
 					<h3>Drastic action</h3>
 					<p class="work-client">News</p>
 				</div>
-				<a href="case-study-2.html">view more</a>
+				<a href="/portfolio/">view more</a>
 			</div>
 		</div>
 		<div class="swiper-slide type-1">
@@ -80,7 +80,7 @@
 					<h3>New arrivals</h3>
 					<p class="work-client">life&fashion</p>
 				</div>
-				<a href="case-study-2.html">view more</a>
+				<a href="/portfolio/">view more</a>
 			</div>
 		</div>
 		<div class="swiper-slide type-2">
@@ -96,6 +96,6 @@
 					<h3>Power</h3>
 					<p class="work-client">Showing.com</p>
 				</div>
-				<a href="case-study-2.html">view more</a>
+				<a href="/portfolio/">view more</a>
 			</div>
 		</div>
