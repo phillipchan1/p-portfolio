@@ -5,8 +5,27 @@
 		var $contact_forms = $("form.blahlab_contact_form");
 
 		$contact_forms.submit(e => {
-			console.log('submitted');
-		})
+			const url = 'send.php';
+
+			e.preventDefault();
+			$.ajax({
+				type: "POST",
+				url: url,
+				data: $contact_forms.serialize(),
+				success: function(data) {
+					if (data.match(/success/)) {
+						$(form).trigger("reset");
+						$(form)
+							.find("p.thanks")
+							.removeClass("hide")
+							.show()
+							.fadeOut(5000);
+					}
+				}
+			});
+
+			console.log("submitted");
+		});
 
 		// for (var i = 0; i < $contact_forms.length; i++) {
 		// 	$($contact_forms[i]).validate({
