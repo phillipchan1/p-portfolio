@@ -5,7 +5,7 @@
 		var $contact_forms = $("form.blahlab_contact_form");
 
 		$contact_forms.submit(e => {
-			const url = 'send.php';
+			const url = '/send.php';
 
 			e.preventDefault();
 			$.ajax({
