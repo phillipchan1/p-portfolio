@@ -13,14 +13,13 @@
 				url: url,
 				data: $contact_forms.serialize(),
 				success: function(data) {
-					if (data.match(/success/)) {
-						$(form).trigger("reset");
-						$(form)
-							.find("p.thanks")
-							.removeClass("hide")
-							.show()
-							.fadeOut(5000);
-					}
+					console.log(data);
+					$contact_forms.trigger("reset");
+					$contact_forms
+					.find("p.thanks")
+					.removeClass("hide")
+					.show()
+					.fadeOut(5000);
 				}
 			});
 
@@ -57,12 +56,12 @@
 
 		if ($(wrapper).hasClass("open-menu")) {
 			$("#menu-wrapper")
-				.removeClass("open-menu")
-				.addClass("close-menu");
+			.removeClass("open-menu")
+			.addClass("close-menu");
 		} else {
 			$("#menu-wrapper")
-				.removeClass("close-menu")
-				.addClass("open-menu");
+			.removeClass("close-menu")
+			.addClass("open-menu");
 		}
 	});
 
