@@ -2,7 +2,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-    <title>Concis</title>
+    <title>PCHAN - The Portfolio of Phillip Chan</title>
+
+    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
     <link rel="stylesheet" href="/assets/static/css/foundation.css">
     <link rel="stylesheet" href="/assets/static/css/slick.css">
     <link rel="stylesheet" href="/assets/static/css/slick-theme.css">
