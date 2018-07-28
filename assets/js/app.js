@@ -5,7 +5,7 @@
 		var $contact_forms = $("form.blahlab_contact_form");
 
 		$contact_forms.submit(e => {
-			const url = '/send.php';
+			const url = 'https://formspree.io/phillipchan1@gmail.com';
 
 			e.preventDefault();
 			$.ajax({
