@@ -59,10 +59,10 @@
 			</div>
 			<div class="bottom-section item" id="work-8">
 				<div class="work-caption">
-					<h3>Drastic action</h3>
-					<p class="work-client">News</p>
+					<h3>Liferay Email Builder</h3>
+					<p class="work-client">Node App</p>
 				</div>
-				<a href="/portfolio/">view more</a>
+				<a href="/portfolio/liferay-email-builder">view more</a>
 			</div>
 		</div>
 		<div class="swiper-slide type-1">
