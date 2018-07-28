@@ -157,9 +157,7 @@
 			<!-- Work with us -->
 			<?php include '../../components/work-with-us.php';?>
 
-			<div class="full white centered-text">
-				<a href="cases.html" class="boxed black button">Back to all cases</a>
-			</div>
+			<?php include '../../components/back-to-cases.php';?>
 		</div>
 
 		<?php include '../../partials/footer.php';?>

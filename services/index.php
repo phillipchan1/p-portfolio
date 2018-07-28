@@ -11,7 +11,7 @@
 		</h2>
 		<p>My job goes beyond just imagining and creating digital collateral. My job is also to make your business as successful and efficient as possible.</p>
 
-		<p>Your product needs to convert successfully. Your product needs to differentiate your business. Our mission is to make that happen.</p>
+		<p>Your product needs to convert successfully. Your product needs to differentiate your business. My mission is to make that happen.</p>
 	</div>
 
 	<?php include(dirname(__DIR__).'/components/scroll-hint.php');?>
