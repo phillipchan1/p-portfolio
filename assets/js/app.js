@@ -13,7 +13,6 @@
 				url: url,
 				data: $contact_forms.serialize(),
 				success: function(data) {
-					console.log(data);
 					$contact_forms.trigger("reset");
 					$contact_forms
 					.find("p.thanks")
@@ -22,8 +21,6 @@
 					.fadeOut(5000);
 				}
 			});
-
-			console.log("submitted");
 		});
 
 		// for (var i = 0; i < $contact_forms.length; i++) {
