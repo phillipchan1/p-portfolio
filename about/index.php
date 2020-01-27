@@ -9,7 +9,7 @@
 		<div class="site-intro">
 			<h2>Trusted and Tried
 			</h2>
-			<p>I am a lead developer trusted to build digital collateral and deliver value for multibillion dollar and multinational companies. Where will you put your trust?
+			<p>I am a lead full-stack developer trusted to build digital collateral and deliver value for multibillion dollar and multinational companies. Where will you put your trust?
 			</p>
 		</div>
 		<div class="action-hint quick">Click & drag to explore.</div>
