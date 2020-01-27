@@ -1,4 +1,13 @@
 <div class="swiper-wrapper">
+<div class="swiper-slide type-1">
+		<div class="whole item" id="work-1">
+			<div class="work-caption">
+				<h3>ESIApp</h3>
+				<p class="work-client">iPad App</p>
+			</div>
+			<a href="/portfolio/esi">view more</a>
+		</div>
+	</div>
 	<div class="swiper-slide type-1">
 		<div class="whole item" id="work-1">
 			<div class="work-caption">
