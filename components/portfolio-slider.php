@@ -1,11 +1,18 @@
 <div class="swiper-wrapper">
-<div class="swiper-slide type-1">
-		<div class="whole item" id="work-1">
+<div class="swiper-slide type-2">
+		<div class="top-section item" id="portfolio-esi-app">
 			<div class="work-caption">
 				<h3>ESIApp</h3>
 				<p class="work-client">iPad App</p>
 			</div>
-			<a href="/portfolio/esi">view more</a>
+			<a href="/portfolio/ins">view more</a>
+		</div>
+		<div class="bottom-section item" id="portfolio-esi-microservice">
+			<div class="work-caption">
+				<h3>INS Microservice</h3>
+				<p class="work-client">Azure Functions / Node</p>
+			</div>
+			<a href="/portfolio/hubspot-microservice">view more</a>
 		</div>
 	</div>
 	<div class="swiper-slide type-1">
