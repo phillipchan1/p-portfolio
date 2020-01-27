@@ -39,7 +39,7 @@
 						<div class="large-7 columns">
 							<div class="spacing"></div>
 							<h3 class="meta-title">Main roles</h3>
-							<p class="meta-data">Full Stack Developer</p>
+							<p class="meta-data">Full Stack Lead Developer</p>
 						</div>
 					</div>
 					<div class="spacing"></div>
