@@ -8,11 +8,11 @@
 	<div class="case-header dark">
 		<div class="case-header">
 			<div class="media-wrapper">
-				<img src="/portfolio/hubspot-microservice/banner.png" class="case-header-image " alt="">
+				<img src="/portfolio/esi-microservice/banner.svg" class="case-header-image " alt="">
 				<div class="image-overlay"></div>
 			</div>
 			<div class="large-12 columns">
-				<h2>Data crunching in the cloud</h2>
+				<h2>Data Funnel Meets Machine Learning</h2>
 			</div>
 			<p class="scroll-down-arrow">
 				<span class="scroll-down">
@@ -113,7 +113,7 @@
 			</div>
 			<div class="full purple colored-bg">
 				<p class="centered-text">
-					<img src="/portfolio/hubspot-microservice/laptop.jpg" alt="">
+					<img src="/portfolio/esi-microservice/laptop.jpg" alt="">
 				</p>
 			</div>
 			<div class="full no-right white">
