@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/phillipchan2/p-portfolio#readme",
   "devDependencies": {
-    "browser-sync": "^2.24.6",
+    "browser-sync": "^2.27.10",
     "gulp": "^3.9.1",
     "gulp-connect-php": "^1.0.3"
   }
